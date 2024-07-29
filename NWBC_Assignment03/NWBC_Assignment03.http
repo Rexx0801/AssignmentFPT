@@ -1,0 +1,6 @@
+@NWBC_Assignment03_HostAddress = http://localhost:5271
+
+GET {{NWBC_Assignment03_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
